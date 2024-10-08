@@ -1,2 +1,2 @@
 # Quick sort GUI
- Python quick sort algorithm GUI made with Custom Tkinter
+Quick sort algorithm implemented in python and with Custom Tkinter for GUI
